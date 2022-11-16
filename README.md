@@ -1,6 +1,9 @@
 # TimeSeriesForcasting
 
-keep update :  
+keep update : 
+
+docker setup and decided to use google colab instead  
+
 now training prophet to forcast all id  
 aprrox. time : 12 hours  
 
