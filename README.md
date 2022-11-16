@@ -3,5 +3,6 @@
 keep update :  
 now training prophet to forcast all id  
 aprrox. time : 12 hours
+![image](https://user-images.githubusercontent.com/26840831/202096283-c07d4dbd-9e8e-4408-948a-a99329fea454.png)
 
 
