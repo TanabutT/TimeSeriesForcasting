@@ -25,5 +25,7 @@ not show much just cleaning data and some explore then rearrange data to be the 
 #### Forcasting result 
 save to csv file : [forcasting_result](forcast_allids_df.csv)
 
-#### Evaluation
-WMAPE would have measure the performance on the forcasting ot the model
+#### Evaluation  
+cross validation and tuning to find best parameter with WMAPE  
+WMAPE would have measure the performance on the forcasting ot the model.
+
