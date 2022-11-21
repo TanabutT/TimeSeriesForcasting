@@ -22,4 +22,8 @@ use docker and set environment to run model training
 #### EDA part  
 not show much just cleaning data and some explore then rearrange data to be the right input format to the training with Prophet model 
 
+#### Forcasting result 
+save to csv file : ![forcasting_result](./)
 
+#### Evaluation
+WMAPE would have measure the performance on the forcasting ot the model
